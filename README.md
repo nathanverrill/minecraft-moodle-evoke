@@ -5,7 +5,7 @@ Nathan Verrill nathanverrill@gmail.com
 
 ## OVERVIEW
 
-This is a proof of concept for integrating Minecraft with Moodle LMS using a custom API for the World Bank's Evoke platform.
+This is a proof of concept for integrating Minecraft with Moodle LMS using a custom API for the World Bank's Evoke platform. The intent is to explore the possibility of using Minecraft as the gameful experience, backed with educational activities in the Moodle MLS.
 
 See [Evoke: An Online Alternate Reality Game Supporting Social Innovation Among Young People Around the World](https://www.worldbank.org/en/topic/edutech/brief/evoke-an-online-alternate-reality-game-supporting-social-innovation-among-young-people-around-the-world)
 
